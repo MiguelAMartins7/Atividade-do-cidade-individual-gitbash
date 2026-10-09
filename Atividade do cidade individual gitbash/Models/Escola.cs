@@ -2,5 +2,7 @@
 {
     public class Escola
     {
+        public string Nome {get; set;}
+        public int Endereco {get; set;}
     }
 }
